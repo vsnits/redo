@@ -1,7 +1,7 @@
 # Redo
 small long-time memory test game for linux terminal
 # Installation (Linux)
-Clone source to `/<path>/path>/redo` <br>
+Clone source to some `/<path>/redo` <br>
 Set permissions and make alias
 ```bash
 sudo chmod u+x /<path>/redo/redo.sh

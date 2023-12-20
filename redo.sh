@@ -31,6 +31,10 @@ do
     elif [[ $opt == "--help" ]]
     then 
         help
+    elif [[ ${opt:0:1} = "-" ]] # respect mistypes
+    then 
+        echo "unrecognised option. Try redo --help"
+        exit 2
     fi
 done
 ## continue if none of super options given

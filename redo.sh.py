@@ -29,10 +29,10 @@ print("Answer y / n / exit \n")
 while(len(lines)):
      rint = random.randint(0, len(lines)-1)
      term = lines.pop(rint)
-     print("Do you remember about {}?".format(term))
+     print("Can you say something about {}?".format(term))
      a = input(".. ")
      if a == "n":
-         print("Are you going to repeat?\n")
+         print("Are you going to learn?\n")
          sys.exit(0)
      elif not (a == "y" or a == "n"):
          print("Well done!\n")

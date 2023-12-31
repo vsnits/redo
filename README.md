@@ -1,3 +1,11 @@
+
+# !
+# Not active brunch
+# For recent changes refer
+# github.com/vsnits
+# 
+# 
+
 # Redo
 small long-time memory test game for linux terminal
 # Installation (Linux)
@@ -23,6 +31,4 @@ redo
 # Note
 Github is now TOTALLY owned by Microsloth <br>
 Not client nor server-side free <br>
-More recently requires Phone Number (!) <br>
-It's now better idea move to ourproject or maintain own server.
 
